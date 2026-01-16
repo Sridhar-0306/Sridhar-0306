@@ -1,7 +1,8 @@
 ## About Me
-Hi, I'm Sridhar U, a Computer Science Engineering student currently engaged in project-based learning using web technologies, backend systems, and databases. I use web development primarily as a supporting layer while focusing on understanding backend logic, data flow, and real-world system behavior.
+Hi, I'm Sridhar U, a Computer Science Engineering student who enjoys building practical solutions through projects. I currently work on applications using web technologies, backend systems, and databases as a way to understand real-world system behavior, data flow, and application logic.
 
-My long-term interest lies in Cloud Computing, Data Science, Artificial Intelligence, and Machine Learning, and I am actively building the foundational skills required to grow in these areas.
+My core interests lie in Data Science, Artificial Intelligence, Machine Learning, Quantum Computing, and Cloud Computing, and I am actively developing the foundational skills needed to grow in these areas.
+
 
 ### Current Work
 - Project-based implementations involving backend logic and database integration  
